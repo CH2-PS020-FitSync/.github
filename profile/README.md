@@ -6,6 +6,8 @@ In a world increasingly challenged by health issues, our team is committed to ad
 
 FitSync combines cutting-edge technology with comprehensive fitness tracking, personalized dietary nutrition recommendations, creating a holistic platform for users. Our goal is to contribute to the global drive for healthier living, making it accessible, enjoyable, and sustainable for everyone in an ecosystem that empowers users to embark on their wellness journey with confidence and conviction. In today's fast-paced world, health often takes a back seat to the demands of daily life. FitSync is designed to address this fundamental issue by offering a dynamic and user-centric solution.
 
+FitSync provides a mobile home workout exercises which can be done without using any additional equipments for you to use, giving you the convenience to do the provided exercises anywhere anytime.
+
 ## Get It Now!
 
 ![Screenshots of the App](profile/assets/screenshots.png)
